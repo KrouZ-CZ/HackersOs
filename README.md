@@ -26,5 +26,5 @@ rus - Введите ник minecraft, и программа взломает а
 eng - Enter steam nick and program will hack steam account    
 rus - Введите ник steam и программа взломает аккаунт steam
 # Geometry dash
-eng - 1 - hacking moderator. 2 - Hacking the senior moderator. 3. Hacking the account password
+eng - 1 - hacking moderator. 2 - Hacking the elder moderator. 3. Hacking the account password    
 rus - 1 - взлом модератор. 2 - Взлом старшего модератор. 3. Взлом пароля от аккаунта
