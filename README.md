@@ -2,7 +2,7 @@
 eng - This program is designed to hack these sites and games    
 rus - Эта программа предназначена для взлома этих сайтов и игр
 # Pip`s
-[progress.bar](https://pypi.org/project/progress/)
+[progress](https://pypi.org/project/progress/)    
 [consolemenu](https://pypi.org/project/console-menu/)
 # Gmail
 eng - Enter gmail without @gmail.com and program will hack gmail    
